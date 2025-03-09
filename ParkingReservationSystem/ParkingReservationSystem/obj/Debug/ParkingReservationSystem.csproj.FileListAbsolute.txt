@@ -1,0 +1,2 @@
+D:\School\ParkingReservationSystem\ParkingReservationSystem\ParkingReservationSystem\obj\Debug\ParkingReservationSystem.csproj.AssemblyReference.cache
+D:\School\ParkingReservationSystem\ParkingReservationSystem\ParkingReservationSystem\obj\Debug\ParkingReservationSystem.csproj.SuggestedBindingRedirects.cache

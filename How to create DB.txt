@@ -1,0 +1,9 @@
+The directory contains a file named "script" with queries to generate the database and seed it with sample data.
+
+I personally used Microsoft SQL Server Management Studio for the database deployment.
+
+After deployment, the database access key must be changed.
+
+The connection string, which needs to be modified, is located in the following file: "..\src\Database\DatabaseConnection.cs".
+
+After the "=" in the Data Source field, enter the server name / your computer name (replacing ****)

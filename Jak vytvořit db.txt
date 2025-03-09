@@ -1,9 +1,0 @@
-V adresáři se nachází soubor "script", ve kterém je query pro vygenerování databáze a naseedování ukázkových dat.
-
-Osobně jsem pro nasazení db použil Microsoft SQL Server Management Studio.
-
-Po nasazení se musí změnit přístupový klíč do db.
-
-V souboru s touto cestou: "ParkingReservationSystem\ParkingReservationSystem\src\Database\DatabaseConnection.cs" se nachází conection string, který je potřeba upravit.
-
-Za = u Data Source se musí zadat název serveru / Vašeho počítače. (namísto ****)
